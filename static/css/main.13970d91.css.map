@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,8CAA2D,CAC5D","file":"static/css/main.13970d91.css","sourcesContent":["body {\n  background-image: url('./images/background/background.png')\n}\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
