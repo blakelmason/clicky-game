@@ -1,1 +1,0 @@
-{"version":3,"sources":["/Users/blake/Desktop/clicky-game/src/index.css","main.807b81cb.chunk.css"],"names":[],"mappings":"AAAA,KACE,6EAA2D,CCC5D","file":"main.807b81cb.chunk.css","sourcesContent":["body {\n  background-image: url('./images/background/background.png')\n}","body {\n  background-image: url(/react-clicky-game/static/media/background.438b12a5.png)\n}\n"]}
