@@ -87,7 +87,7 @@ class App extends Component {
     return (
       <div className="App">
         <Menu score={this.state.score} />
-        <div className="border border-info" style={{ height: '2px' }}></div>
+        <div className="border border-info" style={{ height: '2px' }} />
         <Instructions />
         <CardContainer imageOrder={this.state.imageOrder} checkScore={this.checkScore.bind(this)} />
         <GameOver gameOver={this.state.gameOver} score={this.state.score} resetGame={this.resetGame.bind(this)} />

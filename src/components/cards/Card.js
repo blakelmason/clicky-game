@@ -18,7 +18,7 @@ const StyledImage = styled.img`
 
 const Card = (props) => {
   return (
-    <div className="col-12 col-sm-6 col-lg-3 text-center px-xl-5 py-xl-4 px-lg-4 py-lg-3 px-md-4 py-md-4 px-3 py-3">
+    <div className="col-3 text-center px-xl-5 py-xl-4 px-lg-4 py-lg-3 px-sm-2 py-sm-2 px-1 py-1">
       <div className="bg-light rounded" onClick={() => props.checkScore(props.imageNumber)}>
         <StyledImage src={props.imageNumber ? require(`../../images/card-images/${props.imageNumber}.jpg`) : null} alt="" className="img-fluid rounded border border-secondary" />
       </div>

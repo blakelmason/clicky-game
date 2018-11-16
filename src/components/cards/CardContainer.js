@@ -17,7 +17,7 @@ class CardContainer extends Component {
       }
     }
     return (
-      <div className="container">
+      <div className="container mb-3">
         {cardRows}
       </div>
     )
